@@ -32,6 +32,11 @@ This project simulates a car airbag controller during a collision. The airbag co
 ### Design and Architecture
 - Design software layers and modules for modularity and scalability.
 - Ensure efficient data flow between the ACU and Central MCU.
+## Results
+The simulation results can be found in the `/Result/` directory. This includes:
+- **Test data**: Data captured from sensor inputs during simulated collisions.
+- **Analysis**: Results of airbag deployment and real-time data analysis by the Central MCU.
+- **Visualization**: Graphs and charts representing the collision event and airbag activation.
 
 ## How to Build and Run the Project
 1. Clone this repository to your local machine.
